@@ -1,0 +1,4 @@
+email_summary.txt
+yesterday_emails.txt
+__pycache__/
+*.pyc
